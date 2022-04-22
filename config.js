@@ -1,5 +1,5 @@
 const nameGirl = "";
-const giftUrl = "http://nodemy.vn";
+const giftUrl = "https://www.facebook.com/denislil97/";
 const eventName = "Chúc Mừng Sinh Nhật Tiểu Thư";
 const titleCard = "Tặng Tiểu Thư";
 const contentCard =
